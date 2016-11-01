@@ -20,3 +20,9 @@ Required packages
         sudo pip install PyOpenSSL
 - python-pysqlite2
         use synaptic
+
+Run the server
+- Run the cli version
+	sudo python PyFTPD-cli.py
+- Run the GUI version
+	sudo python PyFTPD.py
