@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>dagobert83-apply-300px.png</file>
+    <file>x-button-300px.png</file>
+    <file>spite-lightning-300px.png</file>
+    <file>file-server-300px.png</file>
+  </qresource>
+</RCC>
