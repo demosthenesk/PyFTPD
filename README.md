@@ -8,22 +8,23 @@ Installation
 ==============
 
 Required packages
-- Python 2.7.12
+- Python 2.7.12:
         use synaptic
-- PyQT4
+- PyQT4:
         use synaptic
-- pyftpdlib
+- pyftpdlib:
         sudo pip install pyftpdlib
-- pysendfile
+- pysendfile:
         sudo pip install pysendfile
-- pyOpenSSL
+- pyOpenSSL:
         sudo pip install PyOpenSSL
-- python-pysqlite2
+- python-pysqlite2:
         use synaptic
 
 Run the server
 ================
-- Run the cli version
+- Run the cli version:
 	sudo python PyFTPD-cli.py
-- Run the GUI version
+- Run the GUI version:
 	sudo python PyFTPD.py
+
