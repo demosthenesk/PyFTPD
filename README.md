@@ -22,6 +22,7 @@ Required packages
         use synaptic
 
 Run the server
+================
 - Run the cli version
 	sudo python PyFTPD-cli.py
 - Run the GUI version
