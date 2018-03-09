@@ -2,7 +2,7 @@ PyFTPD
 =============
 
 PyFTPD is a FTP server based on pyftpdlib.
-For more info or for documentation see http://pythonhosted.org/pyftpdlib/index.html
+For more info or for documentation see https://pypi.python.org/pypi/pyftpdlib
 
 Installation
 ==============
